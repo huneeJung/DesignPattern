@@ -1,10 +1,10 @@
 package AbstractFactory;
 
-import AbstractFactory.button.Button;
-import AbstractFactory.factory.DarkThemeFactory;
-import AbstractFactory.factory.LightThemeFactory;
+import AbstractFactory.element.Button;
+import AbstractFactory.dark.DarkThemeFactory;
+import AbstractFactory.light.LightThemeFactory;
 import AbstractFactory.factory.UIThemeFactory;
-import AbstractFactory.textfield.TextField;
+import AbstractFactory.element.TextField;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {

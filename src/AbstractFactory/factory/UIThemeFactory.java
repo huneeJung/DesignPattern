@@ -1,7 +1,7 @@
 package AbstractFactory.factory;
 
-import AbstractFactory.button.Button;
-import AbstractFactory.textfield.TextField;
+import AbstractFactory.element.Button;
+import AbstractFactory.element.TextField;
 
 public interface UIThemeFactory {
 

@@ -1,4 +1,4 @@
-package AbstractFactory.button;
+package AbstractFactory.element;
 
 public interface Button {
     void render();
