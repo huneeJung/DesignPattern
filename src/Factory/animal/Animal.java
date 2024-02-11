@@ -1,4 +1,4 @@
-package Factory;
+package Factory.animal;
 
 public interface Animal {
     void speak();

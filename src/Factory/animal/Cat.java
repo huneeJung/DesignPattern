@@ -1,6 +1,6 @@
-package Factory;
+package Factory.animal;
 
-class Cat implements Animal{
+public class Cat implements Animal{
 
     public Cat() {
     }

@@ -1,4 +1,8 @@
-package Factory;
+package Factory.factory;
+
+import Factory.animal.Animal;
+import Factory.animal.Cat;
+import Factory.animal.Dog;
 
 public class AnimalFactory {
     private String type;

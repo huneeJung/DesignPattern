@@ -1,6 +1,6 @@
-package Factory;
+package Factory.animal;
 
-class Dog implements Animal{
+public class Dog implements Animal{
     public Dog(String name) {
         this.name = name;
     }
