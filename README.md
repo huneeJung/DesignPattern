@@ -8,7 +8,8 @@
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/AbstractFactory.png?raw=true"></img>
 
 #### 3. Singleton : 인스턴스는 오직 단 하나만 생성이 되어야만 하고, 어디든 이 인스턴스에 접근이 가능해야 할 때 사용한다.
-##### 1) Util 에 관련된 행위의 모음은 static 으로, 행위의 모음들을 객체로써 표상할 수 있다면 싱글톤 패턴으로 생성하는 것이 바람직하다.
-##### 2) Eager Initialization : 맴버 변수로써 미리 초기화 , Lazy Initialization : 객체가 생성되는 시점에서 단 한번만 생성
+##### 1) 일반적으로 객체는 상태(field)를 가지지 않는다면 static method 로 선언할 수 있다. ex) Util Class
+##### 2) 그러나 특정 행위(Method)의 모음들을 객체로써 표상할 수 있다면 싱글톤 패턴으로 생성하는 것이 바람직하다.
+##### 3) Eager Initialization : 맴버 변수로써 미리 초기화 , Lazy Initialization : 객체가 생성되는 시점에서 단 한번만 생성
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/Singleton.png?raw=true"></img>
