@@ -1,5 +1,5 @@
 # Design Pattern<br/>
-### 1. Factory 
+### 1. Factory Pattern
 
 ---
 
@@ -7,7 +7,7 @@
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/Factory.png?raw=true"></img>
 
-### 2. Abctract Factory
+### 2. Abctract Factory Pattern
 
 ---
 
@@ -15,7 +15,7 @@
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/AbstractFactory.png?raw=true"></img>
 
-### 3. Singleton
+### 3. Singleton Pattern
 
 ---
 
