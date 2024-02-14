@@ -4,6 +4,7 @@
 ---
 
 1) 객체 생성을 추상화하여 유연성을 높일 수 있다.
+2) 스프링의 DI 컨테이너는 팩토리 패턴을 기반으로 동작하며, 빈으로 등록한 이름을 기반으로 객체가 관리된다.
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/Factory.png?raw=true"></img>
 
@@ -12,7 +13,6 @@
 ---
 
 1) 여러개의 관련된 객체의 집합을 인터페이스로 정의하여 일관성과 호환성을 유지할 수 있다.
-2) 스프링의 DI 컨테이너는 팩토리 패턴을 기반으로 동작하며, 빈으로 등록한 이름을 기반으로 객체가 관리된다.
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/AbstractFactory.png?raw=true"></img>
 
