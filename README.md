@@ -37,8 +37,8 @@
 2) 클라이언트는 실제 객체와 무관하게 프록시를 통해서만 작업을 수행
 3) 스프링의 AOP 와 같은 프로그래밍 패러다임에서 핵심적인 역할을 한다.
 4) 횡단 관심사(cross-cutting concerns)를 분리하여 코드 중복을 줄이고, 프로그램의 유지 보수성을 향상시키는 데 이용된다.
-5) 비슷한 개념으로 Filter(서블릿 컨테이너에서 제공), Interceptor(스프링에서 제공 등이 있다.
-6) AOP 활용 예시) 캐싱, 로깅, 접근 제어, 스프링 시큐리티, 트랜젝션 등
+5) 비슷한 개념으로 Filter(서블릿 컨테이너에서 제공), Interceptor(스프링에서 지원) 등이 있다.
+6) AOP 활용 예시 : 캐싱, 로깅, 접근 제어, 스프링 시큐리티, 트랜젝션 등
 
 
 <img style="width:500px; height:300px;" src="https://github.com/huneeJung/DesignPattern/blob/main/Proxy.png?raw=true"></img>
